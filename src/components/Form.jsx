@@ -55,7 +55,7 @@ function Form() {
             );
 
           setCityName(data.city || data.locality || "");
-          setCountry(data.countyName);
+          setCountry(data.countryName);
           setEmoji(convertToEmoji(data.countryCode));
         } catch (err) {
           setGeocodingError(err.message);
@@ -127,7 +127,7 @@ function Form() {
       </div>
 
       <div className={styles.buttons}>
-        <Button type="primary">APP</Button>
+        <Button type="primary">ADD</Button>
         <BackButton />
       </div>
     </form>

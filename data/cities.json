@@ -37,14 +37,15 @@
       "id": "98443197"
     },
     {
-      "id": "b474",
-      "cityName": "Ebolowa",
+      "id": "14c2",
+      "cityName": "Mbankomo",
+      "country": "Cameroon",
       "emoji": "🇨🇲",
-      "date": "2024-05-16T08:30:15.268Z",
-      "notes": "Congés annuelles",
+      "date": "2024-05-17T09:58:42.252Z",
+      "notes": "",
       "position": {
-        "lat": "2.8881803785839963",
-        "lng": "11.1676025390625"
+        "lat": "3.7875217118824227",
+        "lng": "11.446380615234375"
       }
     }
   ]
